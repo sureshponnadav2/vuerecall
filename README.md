@@ -26,4 +26,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-Content added 
+Content added  to dev1
