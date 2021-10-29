@@ -26,5 +26,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-# git reset --hard
-# git merge
