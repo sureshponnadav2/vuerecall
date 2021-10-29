@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      This is a dev1 branch changes!!
+      This is a master branch changes!!
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
